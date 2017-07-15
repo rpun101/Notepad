@@ -25,7 +25,7 @@ To follow these tips you would need at least some willpower. However, willpower 
         - Eat food as it gives energy.
         - Continuous food intake(balanced diet) is important to well-being.
         - **fiber** is beneficial.  
-![willpower by physiology](images/Physiology of Willpower.png)
+![willpower by physiology](images/PhysiologyOfWillpower.png)
 
 1. **The Power of Forgiveness**  
     _Research Shows,_ The forgiveness of not doing will increase the chance of not repeating the same behavior. Feeling of remorse drain willpower. Gambler, drinker, procrastinator fall in vicious circle of remorse of 'not doing' then repeating 'not doing' in future, because they feel bad.
@@ -69,7 +69,7 @@ To follow these tips you would need at least some willpower. However, willpower 
 
 
 
-![Willpower rules from the slide](images/Willpower Rules.png)
+![Willpower rules from the slide](images/WillpowerRules.png)
 
 
 This is good talk. she goes through interesting psychological studies done to back up the points made on the talk.
