@@ -64,10 +64,12 @@ To follow these tips you would need at least some willpower. However, willpower 
     Increasing once ability to tolerate and continue unpleasant task. By resisting more, you can increase more muscles. Similarly by having high tolerance will be beneficial to willpower.  
     - **Surf the urge**  
         The deep breath and delaying, harmful, task/process seems to favor the willpower. Convince yourself to wait for like 15second or more, before you commit certain task. This is called surfing the urge technique.
-    > You don't need to do them. 
+        ![Surfing the Urge Steps](images/SurfTheUrge.png)
+    > You don't need to do them. The urge, you don't have to give in. You can resist for a while.
 
 
-
+#### Summary ####
+The simple change in the habit or thinking process can have great impact in the willpower. Willpower is the limited commodity and it should be used wisely. The higher number rules require a little change in behavior and it can have more impact in willpower source.
 
 ![Willpower rules from the slide](images/WillpowerRules.png)
 
@@ -75,4 +77,4 @@ To follow these tips you would need at least some willpower. However, willpower 
 This is good talk. she goes through interesting psychological studies done to back up the points made on the talk.
 
 #### References ####
-[Talks at Google](https://www.youtube.com/watch?v=V5BXuZL1HAg)
+[Willpower Instinct by Kelly McGonigal at Talks at Google](https://www.youtube.com/watch?v=V5BXuZL1HAg)
